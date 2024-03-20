@@ -22,3 +22,17 @@ guidelines][contrib-guide], so be sure to check them out.
 
 [Create a new issue](https://github.com/ProAlgos/ProAlgos-Cpp/issues/new) and we'll
 handle it from there. :smile:
+
+## Contents
+
+### Projects
+
+*HelloLED 
+
+## Maintainers
+
+This project is actively maintained by [@rlop20](https://github.com/rlop20)
+
+## License
+
+This project is licensed under the terms of the [MIT license](LICENSE.md).
