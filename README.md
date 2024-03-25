@@ -10,14 +10,10 @@ The goal is focused on following documentation best practices, such as:
 
 ## How to contribute to open-source and get involved with the project
 
-1. **Read** the [contribution guidelines][contrib-guide]
-1. **Fork** the repo
-1. **Create an issue** describing what you'd like to add, or **claim an issue** that's [up for grabs][up-for-grabs]
-1. Create a **branch** and **add your code**
+1. **Read** the [contribution guidelines](docs/CONTRIBUTION_GUIDELINES)
+1. **Create an issue** describing what you'd like to add, or **claim an issue** 
+1. Create a **branch** and **add your changes**
 1. Submit a **pull request** and reference the issue it closes
-
-You can find more details regarding the steps above in the [contribution
-guidelines][contrib-guide], so be sure to check them out.
 
 #### Just want to suggest a new feature, project, or kreport a bug?
 
