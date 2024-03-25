@@ -27,8 +27,8 @@ handle it from there. :smile:
 
 ### Projects
 
-* Kepler Kit (https://docs.sunfounder.com/projects/kepler-kit/en/latest/component/what_is_included_in_this_kit.html)
-    * [HelloLED.py]
+* Kepler Kit Projects (https://docs.sunfounder.com/projects/kepler-kit/en/latest/component/what_is_included_in_this_kit.html)
+    * [HelloLED] 
 
 ## Maintainers
 
