@@ -1,11 +1,12 @@
 # Pima-IoT
-A repository containing the IoT projects completed by current Pima TechEx Interns and future ones. 
+A repository containing the IoT projects completed by current Pima TechEx Interns and students.
 The goal is focused on following documentation best practices, such as:
 
 - Writing well-documented code
 - Adhering to code guidelines
 - Reviewing each other's code
 - Documenting an entire process including bugs, solutions, etc.
+- Contributing to open-source code
 
 ## How to contribute to open-source and get involved with the project
 
@@ -18,7 +19,7 @@ The goal is focused on following documentation best practices, such as:
 You can find more details regarding the steps above in the [contribution
 guidelines][contrib-guide], so be sure to check them out.
 
-#### Just want to suggest a new algorithm or report a bug?
+#### Just want to suggest a new feature, project, or kreport a bug?
 
 [Create a new issue](https://github.com/ProAlgos/ProAlgos-Cpp/issues/new) and we'll
 handle it from there. :smile:
