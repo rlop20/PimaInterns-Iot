@@ -29,7 +29,6 @@ handle it from there. :smile:
 
 * Kepler Kit (https://docs.sunfounder.com/projects/kepler-kit/en/latest/component/what_is_included_in_this_kit.html)
     * [HelloLED.py]
-    * [HelloLED.c] 
 
 ## Maintainers
 
