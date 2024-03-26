@@ -8,6 +8,12 @@ The goal is focused on following documentation best practices, such as:
 - Documenting an entire process including bugs, solutions, etc.
 - Contributing to open-source code
 
+## Contents
+
+### Projects
+   * [HelloLED](projects/HelloLED)
+   * [Colorful Light](projects/ColorfulLight)
+
 ## How to contribute to open-source and get involved with the project
 
 1. **Read** the [contribution guidelines](docs/CONTRIBUTION_GUIDELINES)
@@ -19,12 +25,6 @@ The goal is focused on following documentation best practices, such as:
 
 [Create a new issue](https://github.com/ProAlgos/ProAlgos-Cpp/issues/new) and we'll
 handle it from there. :smile:
-
-## Contents
-
-### Projects
-   * [HelloLED](projects/HelloLED)
-   * [Colorful Light](projects/ColorfulLight)
 
 ## Maintainers
 
