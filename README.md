@@ -14,6 +14,9 @@ The goal is focused on following documentation best practices, such as:
    * [HelloLED](projects/HelloLED)
    * [Colorful Light](projects/ColorfulLight)
 
+### Docs
+  * [Code guidelines](docs/CODING_GUIDELINES)
+
 ## How to contribute to open-source and get involved with the project
 
 1. **Read** the [contribution guidelines](docs/CONTRIBUTION_GUIDELINES)
